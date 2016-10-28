@@ -1,8 +1,8 @@
 # PiratasGames
-Apps-PiratasGames, Aplicación Android, Versión del Juego la Culebra, pero con Piratas
+Apps-PiratasGames, <b>Aplicación Android</b>, Versión del Juego la Culebra, pero con Piratas
 
 Apps-PiratasGames-Android-2016
-Aplicación de Juego PiratasGame-2016 para plataforma Android.
+Aplicación de Juego <b>PiratasGame-2016</b> para plataforma Android.
 
 El presente juego, está basado en el juego de la culebra, pero con Barcos, Piratas, Tesoros y por supuesto en el Mar.
 
