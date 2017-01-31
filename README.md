@@ -5,7 +5,7 @@ Apps-PiratasGames-Android-2016
 Aplicación de Juego <b>PiratasGame-2016</b> para plataforma Android.
 
 El presente juego, está basado en el juego de la culebra, pero con Barcos, Piratas, Tesoros y por supuesto en el Mar.
-<div><img src=https://1.bp.blogspot.com/-d_ejhrElQ8E/WBNimop3JsI/AAAAAAAAAbU/l4IUuWc7iq4p5qDKg22QydX697VpW3HQwCEw/s320/Screenshot_20160702-093634.png></div>
+<div><img src=https://1.bp.blogspot.com/-Uca1t0eoLSY/WJCq-HmrJ9I/AAAAAAAAAfI/I80ApdHfq4QaUWYvzrwIrGgkSEcYmFQ2ACLcB/s320/inicio.png></div>
 
 Observa la presentación en: http://appmovilvenezuela.blogspot.com/2016/10/piratasgames-2016-apps-piratasgames_28.html
 
