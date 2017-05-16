@@ -26,4 +26,4 @@ Atentamente,
 
 telecom.com.ve@gmail.com
 
-Twitter: https://twitter.com/@tarsicio_tic
+Twitter: <a href="https://twitter.com/@tarsicio_tic" target="_blank">@tarsicio_tic</a><p> 
