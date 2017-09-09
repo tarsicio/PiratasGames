@@ -19,6 +19,11 @@ Observa la presentación en: http://appmovilvenezuela.blogspot.com/2016/10/pirat
 
 Espero que se diviertan un rato, este Juego, nos permitió crear nuestro propio Framework de juego base, con el cual pretendemos realizar nuestro segundo juego el <b>"El-Quinto-Elemento"</b> ó <b>"The-Fifth-Element"</b>, esperalo, está en Diseño y Desarrollo, una vez culminado lo publicaremos en la Apps de Google, y por esta misma vía te lo comunicaremos o por Twitter
 <div><img src=https://4.bp.blogspot.com/-NZtmkk5TSnM/WBNi5QLHsYI/AAAAAAAAAbo/4MKCYx7sbTYcShfDOrFaXyNU_4r-ifY7wCEw/s320/Screenshot_20160702-093901.png></div>
+</b><p> 
+Apoya este proyecto para mejorarlo e incluir los Sensores <b>(Acelerómetro, Giroscopio, Barómetro, Magnetómetro, Proximidad, Luz, Termómetro, Ritmo Cardíaco, Podómetro, y Lector de Huella, entre otros)</b><p><p>
+<img src="https://cdn.shopify.com/s/files/1/0598/6757/files/bitcoin-ethereum-accpeted.jpg" alt="Smiley face"><p><p>
+puedes hacer tus donaciones directamente en Monedas Digital al monedero  <h3><b>0485616c-29e5-405e-afc5-1f45e2d1e59a<b></h3>
+<p><p>
 
 Atentamente,
 
